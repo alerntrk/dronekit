@@ -1,1 +1,1 @@
-# dronekit_exerises
+simple dronekit examples
